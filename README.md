@@ -1,16 +1,14 @@
-## Hi there 👋
+## 👋 Olá, sou Levi dos Santos
 
-<!--
-**levijuniobs/levijuniobs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Analista de Cloud & DevOps**  
+🌩️ Focado em **AWS & Azure e DevOps**  
+🛠️ Aprendendo **Terraform, Ansible, Docker, Kubernetes, Prometheus, Grafana, Git/GitHub, YAML e Python**  
+📈 Buscando minha primeira oportunidade prática em Cloud & DevOps
 
-Here are some ideas to get you started:
+### 🚀 Objetivo
+Iniciar minha carreira em Cloud & DevOps, contribuindo em projetos de infraestrutura e migração para nuvem, com aprendizado contínuo.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 Contato
+- [LinkedIn](https://www.linkedin.com/in/levijuniobs)
+
+---
