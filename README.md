@@ -1,8 +1,8 @@
 ## 👋 Olá, sou Levi dos Santos
 
 💻 **Analista de Cloud & DevOps**  
-🌩️ Focado em **AWS & Azure e DevOps**  
-🛠️ Aprendendo **Terraform, Ansible, Docker, Kubernetes, Prometheus, Grafana, Git/GitHub, YAML e Python**  
+🌩️ Focado em **Azure | AWS | GCP | DevOps**  
+🛠️ Aprendendo **Azure, Docker, Kubernetes, Git/GitHub Actions**
 📈 Buscando minha primeira oportunidade prática em Cloud & DevOps
 
 ### 🚀 Objetivo
